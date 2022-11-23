@@ -1,5 +1,78 @@
 [class*="col"]{
-    background-color:azure;
-    border: 2px solid #fff;
-
+    padding: 1rem;
+    background-color: #e7f3f7;;
+    color:black;
+    text-align: center;
+}
+#header
+{
+    background-color: #4999cf;
+    color: #fff;
+    padding: 30px;
+}
+#header h1
+{
+    font-weight: 700;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.nav
+{
+    background-color: #81a3c4;
+    text-align: left;
+}
+.nav-link
+{
+    color: black;
+    font-weight: 500;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.nav-link:active
+{
+    font-weight: 700;
+    color: black;
+}
+.nav-link:hover
+{
+    font-weight: 700;
+    color: black;
+}
+.nav-link:visited
+{
+    font-weight: 500;
+    color: black;
+}
+h3
+{
+    text-align: left;
+}
+article .div_wiecej
+{
+    text-align: left;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 5px;
+    
+}
+article #news2 p
+{
+    text-align: left;
+    border-style: dashed;
+    border-width: 1px;
+    padding: 5px;
+}
+button
+{
+    color:white;
+    background-color: #2596be;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 10px;
+    
+}
+footer
+{
+    text-align: right;
+    background-color: #4999cf;
+    padding: 5px;
+    padding-right: 20px;
 }
